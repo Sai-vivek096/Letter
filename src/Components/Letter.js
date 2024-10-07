@@ -17,7 +17,7 @@ const Letter = () => {
         <div className="letter fullSize">
           <div className="letter-content">
             <p>
-              <b>Dear Mamayya and Atta🖤,<br /></b>
+              <b>Dear Akka🖤,<br /></b>
               I am filled with gratitude for the love and care you have showered upon me over these past few days. Thank you from the bottom of my heart for making me feel like a cherished member of the family. Your support and encouragement have meant the world to me, and I am deeply appreciative of everything you have done.
             </p>
              <b> @vickyy</b>
