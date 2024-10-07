@@ -18,7 +18,7 @@ const Letter = () => {
           <div className="letter-content">
             <p>
               <b>Dear Akka🖤,<br /></b>
-It feels like a part of me left when you went to Germany. The days longer, and I find myself missing your laugh, your advice, and even those silly moments we shared. I didn’t realize how much comfort your presence brought until now. There’s a space here that only you can fill, and though I’m proud of you for chasing your dreams, I can’t help but feel the weight of your absence.
+It feels like a part of me left when you went to Germany. The days longer, and I find myself missing your laugh, your advice, and even those silly moments we shared. There’s a space here that only you can fill, and though I’m proud of you for chasing your dreams, I can’t help but feel the weight of your absence.
 <br/>
 Come back soon, even if just for a little while, because I miss you more than words can say."
 
