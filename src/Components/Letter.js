@@ -24,7 +24,7 @@ Come back soon, even if just for a little while, because I miss you more than wo
 
 
         </p>
-             <b> @vickyy</b>
+             <b> @thammu</b>
           </div>
         </div>
       )}
