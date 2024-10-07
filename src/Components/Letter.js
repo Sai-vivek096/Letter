@@ -18,8 +18,12 @@ const Letter = () => {
           <div className="letter-content">
             <p>
               <b>Dear Akka🖤,<br /></b>
-              I am filled with gratitude for the love and care you have showered upon me over these past few days. Thank you from the bottom of my heart for making me feel like a cherished member of the family. Your support and encouragement have meant the world to me, and I am deeply appreciative of everything you have done.
-            </p>
+It feels like a part of me left when you went to Germany. The house feels quieter, the days longer, and I find myself missing your laugh, your advice, and even those silly moments we shared. I didn’t realize how much comfort your presence brought until now. There’s a space here that only you can fill, and though I’m proud of you for chasing your dreams, I can’t help but feel the weight of your absence.
+<br/>
+Come back soon, even if just for a little while, because I miss you more than words can say."
+
+
+        </p>
              <b> @vickyy</b>
           </div>
         </div>
